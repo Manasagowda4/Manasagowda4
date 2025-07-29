@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasagowda4" alt="manasagowda4" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack**
+- 🌱 I’m currently learning **Python Full Stack(React,Django,Rest API) at Pentagon Space,Bangalore**
 
 - 📫 How to reach me **manasahngowda4@gmail.com**
 
